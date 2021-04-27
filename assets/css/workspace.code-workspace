@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\.."
+		},
+		{
+			"path": "..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\f8-School"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lib"
+	}
+}
